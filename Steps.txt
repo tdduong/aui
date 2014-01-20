@@ -1,0 +1,6 @@
+1. Re-edit mirror in /etc/pacman.d/mirrorlist
+2. pacman -Syu
+3. pacman -S git
+4. git clone aui
+5. Run ./ais
+
